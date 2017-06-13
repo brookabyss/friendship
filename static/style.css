@@ -1,0 +1,12 @@
+table {
+  border: solid 5px black;
+}
+td,th{
+  border: solid 2px black;
+}
+form{
+  margin-top: 50px;
+}
+input{
+  margin-top: 10px;
+}
